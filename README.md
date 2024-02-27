@@ -20,7 +20,8 @@ Sales Data: the primary used for this analysis is the "sales_data/csv" file, con
 
 ### Data Tools
 
-- Excel - Data Cleaning [Download here](https://microsoft.com)
+- Excel - Data Cleaning
+  - [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
 - PowerBI - Creating reports
 
@@ -37,9 +38,9 @@ In the initial data preparation phase, we performed the following tasks:
 
 EDA involved exploring the sales data to answer key questions, such as:
 
-What is the overall sales trend?
-Which products are top sellers?
-What are the peak sales periods?
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the peak sales periods?
 
 ### Data Analysis
 
