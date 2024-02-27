@@ -1,4 +1,4 @@
-# Replica Analysis from Youtuber 0001
+# E-Commerce Sales Analysis
 
 ## Table of Contents
 
@@ -7,7 +7,10 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+
 This data analysis project aims to provide insights into the sales of an e-commerce company over the past year. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
+![bar plot](https://github.com/tomthescientist3001/replica_youtuber_0001/assets/161260467/13ae6fa0-1b86-4f5e-86a7-ca15f7b343f1)
 
 ### Data Sources
 
