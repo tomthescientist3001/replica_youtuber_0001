@@ -7,10 +7,12 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales of an e-commerce company over the past year. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ![bar plot](https://github.com/tomthescientist3001/replica_youtuber_0001/assets/161260467/13ae6fa0-1b86-4f5e-86a7-ca15f7b343f1)
+
 
 ### Data Sources
 
@@ -21,6 +23,8 @@ Sales Data: the primary used for this analysis is the "sales_data/csv" file, con
 - Excel - Data Cleaning [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
 - PowerBI - Creating reports
+
+
 
 ### Data Cleaning/Preparation
 
@@ -69,6 +73,22 @@ I had to remove all zero values from budget and revenue columns because they wou
 1. SQL for Businesses by werty.
 2. [Stack Overflow](https://stack.com)
 
+😄
+
+💻
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Python|SQL|
+
+`column_1`
+
+**bold**
+
+*italic*
+
+---
 ### Disclaimer
 
 This is a reproduction inspired by the youtuber Irene Arch  from the YouTube Channel [Her Data Project](https://youtu.be/0N9xekdKCwk?si=j101WvmVot7zvaYu)
