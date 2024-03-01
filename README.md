@@ -1,5 +1,13 @@
 # E-Commerce Sales Analysis
 
+### Disclaimer
+
+This is a reproduction inspired by the youtuber Irene Arch from the YouTube Channel [Her Data Project](https://www.youtube.com/@herdataproject).
+- See original youtuve video [How to Document Data Analysis Projects on GitHub the Right Way](https://youtu.be/0N9xekdKCwk?si=j101WvmVot7zvaYu)
+- See Irene's [repository](https://github.com/Irene-arch/Documenting_Example) in GitHub.
+- Follow Irene in GitHub [Irene-arch](https://github.com/Irene-arch)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -88,16 +96,3 @@ I had to remove all zero values from budget and revenue columns because they wou
 **bold**
 
 *italic*
-
----
-### Disclaimer
-
-This is a reproduction inspired by the youtuber Irene Arch from the YouTube Channel [Her Data Project](https://www.youtube.com/@herdataproject).
-- See original youtuve video [How to Document Data Analysis Projects on GitHub the Right Way](https://youtu.be/0N9xekdKCwk?si=j101WvmVot7zvaYu)
-- See her GitHub [repository](https://github.com/Irene-arch/Documenting_Example)
-
-
-
-
-
-
